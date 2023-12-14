@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattimailt.
+- 👋 Hi, I’m Matthias.
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ... still to come
