@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthias.
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ... still to come
+- 💞️ I’m looking to collaborate on ... still to come as soon as I will be more familiar with coding in Python.
 - 📫 How to reach me ...
 
 <!---
